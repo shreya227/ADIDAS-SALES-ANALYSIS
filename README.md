@@ -44,7 +44,7 @@ To run this analysis locally, follow these steps:
 ### Dataset Source 
 
 * [Kaggle Dataset URL](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
-* [GitHub Dataset URL]()
+* [GitHub Dataset URL](https://github.com/shreya227/ADIDAS-SALES-ANALYSIS/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
 
 ## Exploratory Data Analysis:
 ### 1. Sales Performance Analysis : Which products are generating the highest sales revenue ?
@@ -57,7 +57,7 @@ This disparity suggests potential growth areas and indicates a need for targeted
 ##
 
 ### 2. Retailer Sales Comparison : Which retailer made the highest and least sales?
-![image](https://github.com/user-attachments/assets/9b05ad29-9e6b-45fe-bbf7-7ce85a82c855)
+![image](https://github.com/user-attachments/assets/8261e75d-120a-4efc-9480-a2cae549da49)
 
 #### **Key Insight:** 
 West Gear and Foot Locker emerged as the top-performing retailers. Retailer “West gear” made the highest purchases, contributing  to sales 242964333M, while retailer “Walmart” made the least sales of 74558410M.
@@ -67,6 +67,7 @@ Identifying the retailers with the highest and least purchases help in understan
 ## 
 
 ### 3. Efficiency of Various Sales Methods: How does sales performance vary across different sales methods?
+![image](https://github.com/user-attachments/assets/9b05ad29-9e6b-45fe-bbf7-7ce85a82c855)
 
 #### **Key Insight:** 
 1. In-store sales have the highest total sales, followed by outlet and then online sales.
@@ -77,7 +78,7 @@ When deciding which sales method is more effective, it depends on what the busin
 ## 
 
 ### 4. Time Series Analysis : Which months or years had the highest and lowest sales figures?
-
+![image](https://github.com/user-attachments/assets/96e8abe3-ac08-4833-832d-cdfee0ad6007)
 
 #### **Key Insight:** 
 Monthly sales data from January 2020 to January 2022 exhibit significant variability with notable peaks around April 2021 and consistent increases in December and April of each year, potentially correlating with holiday seasons and sales promotions. The data show a general upward trend in sales over the two-year period, despite some notable dips, particularly in July 2020 and October 2021.
@@ -88,11 +89,18 @@ The observed seasonal patterns, with sales spikes and dips, highlight the import
 ## 
 
 ### 5. Regional Market Analysis-I: Which regions are experiencing strong sales, and which ones are lagging?
+![image](https://github.com/user-attachments/assets/25fbb2a0-3ad2-49fb-8875-ac6a63b684de)
+
+
+Uploading GUI - Google Chrome 2024-07-24 12-51-27.mp4…
+
 
 #### **Key Insight:** 
 California and New York dominate in terms of total sales. The top performing State is New York with a total sales of $64,229,039, while the least performing State is Nebraska with a total sales of $5,929,038. Some states, like Texas, Florida, and Illinois, show moderate sales and units.
 
-![image](https://github.com/user-attachments/assets/34791822-e135-4746-bd8d-67841014aca2)
+
+![image](https://github.com/user-attachments/assets/4491db9e-6bd3-45f7-89c5-22eba6a37b26)
+
 #### **Key Insight:** 
 The top performing Region is West with a total sales of $269,943,182, while the least performing Region Midwest is with a total sales of $135,800,459.
 
@@ -100,7 +108,8 @@ The top performing Region is West with a total sales of $269,943,182, while the 
 
 
 ### 6. How does sales performance vary across different geographical regions?
-![image](https://github.com/user-attachments/assets/4ceb9e27-ea28-4951-b047-df2c52202883)
+![image](https://github.com/user-attachments/assets/40985876-7849-4c7c-9732-25e3ee5eae1b)
+
 
 #### **Key Insight:** 
 This map is Demonstrating Total Sales by State, Product, and Sales Method in the US. A choropleth map is created using Plotly, with separate traces added for each unique product and sales method combination, showing total sales by U.S. state.
@@ -110,9 +119,4 @@ The final output is a dynamic, interactive visualization showing total sales acr
 ##
 
 ### Streamlit Dashboard
-
-
-
-
-
 
