@@ -48,6 +48,7 @@ To run this analysis locally, follow these steps:
 
 ## Exploratory Data Analysis:
 ### 1. Sales Performance Analysis : Which products are generating the highest sales revenue ?
+![image](https://github.com/user-attachments/assets/2454661f-cf42-43b8-907c-bd1e813bacad)
 
 #### **Key Insight:** 
 Men’s Street Footwear emerges as the top-performing category with robust sales amounting to $208,826,244, highlighting a strong market preference. In contrast, Women’s Athletic Footwear shows a relatively lower performance, recording sales of $106,631,896.
@@ -56,6 +57,7 @@ This disparity suggests potential growth areas and indicates a need for targeted
 ##
 
 ### 2. Retailer Sales Comparison : Which retailer made the highest and least sales?
+![image](https://github.com/user-attachments/assets/9b05ad29-9e6b-45fe-bbf7-7ce85a82c855)
 
 #### **Key Insight:** 
 West Gear and Foot Locker emerged as the top-performing retailers. Retailer “West gear” made the highest purchases, contributing  to sales 242964333M, while retailer “Walmart” made the least sales of 74558410M.
@@ -65,7 +67,7 @@ Identifying the retailers with the highest and least purchases help in understan
 ## 
 
 ### 3. Efficiency of Various Sales Methods: How does sales performance vary across different sales methods?
-![image](https://github.com/user-attachments/assets/1f512bc6-2e09-499e-838b-2f1f88791efd)
+
 #### **Key Insight:** 
 1. In-store sales have the highest total sales, followed by outlet and then online sales.
 2. Similar to total sales, in-store sales lead in operating profit, followed by outlet and then online.
@@ -75,7 +77,8 @@ When deciding which sales method is more effective, it depends on what the busin
 ## 
 
 ### 4. Time Series Analysis : Which months or years had the highest and lowest sales figures?
-![image](https://github.com/user-attachments/assets/818f88d0-52de-4fb8-804d-1f1f34d85e00)
+
+
 #### **Key Insight:** 
 Monthly sales data from January 2020 to January 2022 exhibit significant variability with notable peaks around April 2021 and consistent increases in December and April of each year, potentially correlating with holiday seasons and sales promotions. The data show a general upward trend in sales over the two-year period, despite some notable dips, particularly in July 2020 and October 2021.
 
@@ -85,7 +88,7 @@ The observed seasonal patterns, with sales spikes and dips, highlight the import
 ## 
 
 ### 5. Regional Market Analysis-I: Which regions are experiencing strong sales, and which ones are lagging?
-![image](https://github.com/user-attachments/assets/60f2e2fd-6a26-4dcc-9fc4-5878d6e2c121)
+
 #### **Key Insight:** 
 California and New York dominate in terms of total sales. The top performing State is New York with a total sales of $64,229,039, while the least performing State is Nebraska with a total sales of $5,929,038. Some states, like Texas, Florida, and Illinois, show moderate sales and units.
 
