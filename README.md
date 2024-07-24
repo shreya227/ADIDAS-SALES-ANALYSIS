@@ -48,8 +48,7 @@ To run this analysis locally, follow these steps:
 
 ## Exploratory Data Analysis:
 ### 1. Sales Performance Analysis : Which products are generating the highest sales revenue ?
-  ![Uploading image.png…]()
-  
+
 #### **Key Insight:** 
 Men’s Street Footwear emerges as the top-performing category with robust sales amounting to $208,826,244, highlighting a strong market preference. In contrast, Women’s Athletic Footwear shows a relatively lower performance, recording sales of $106,631,896.
 This disparity suggests potential growth areas and indicates a need for targeted strategies to enhance the appeal of underperforming categories like Women’s Athletic Footwear.
@@ -57,7 +56,7 @@ This disparity suggests potential growth areas and indicates a need for targeted
 ##
 
 ### 2. Retailer Sales Comparison : Which retailer made the highest and least sales?
-![image](https://github.com/user-attachments/assets/1004fc06-a032-4d85-94e5-b49b718f0cf6)
+
 #### **Key Insight:** 
 West Gear and Foot Locker emerged as the top-performing retailers. Retailer “West gear” made the highest purchases, contributing  to sales 242964333M, while retailer “Walmart” made the least sales of 74558410M.
 Retailer Contribution: Analyzing sales by retailer allows us to identify the top-performing retailers and evaluate their contribution to overall revenue. This insight helps in building stronger partnerships with key retailers, optimizing distribution channels, and focusing marketing efforts on retailers that drive significant sales.
